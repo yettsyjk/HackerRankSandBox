@@ -28,8 +28,8 @@ public class LeftRotationArray {
 	private static final Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) throws IOException {
-		BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
-	
+		BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));//Exception thrown at this line if you don't have 
+        //this line can't be replaced as it is used within Hackerrank environment to run tests////
 	String[] nd = scanner.nextLine().split(" ");
 	int n = Integer.parseInt(nd[0]);
 	int d = Integer.parseInt(nd[1]);
