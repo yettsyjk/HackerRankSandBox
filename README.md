@@ -4,7 +4,7 @@ Since graduating Skill Distillery on July 7th, 2020, I have been attempting to c
 ### Tools 
 1. Spring Tool Suite 4
 1. Java JDK
-1.  [Challenges] (https://www.hackerrank.com) 
+1.  [Challenges](https://www.hackerrank.com) 
 1.  [Toggl](https://toggl.com/) to time my challenges
 
 ### Lessons Learned
