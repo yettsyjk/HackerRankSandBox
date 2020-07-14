@@ -1,4 +1,4 @@
-package com.yettsyjknapp;
+package com.yettsyjknapp.warmup;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
